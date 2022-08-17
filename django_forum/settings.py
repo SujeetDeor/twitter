@@ -144,6 +144,7 @@ cloudinary.config(
     cloud_name="qualified-recruiter",
     api_key="484932442444582",
     api_secret="MOwYhtxWbtdXirIeaNF7Pxqz8lA",
+    secure=True
 )
 
 # Default primary key field type
